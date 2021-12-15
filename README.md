@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Skip1L
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C#/.NET
